@@ -1,6 +1,6 @@
 # ⚡ Zenkai Code: 90 Days of Machine Learning
 
-
+![Zenkai Code Banner](https://github.com/user-attachments/assets/PLACEHOLDER_FOR_YOUR_BANNER_IMAGE)
 
 > **Zenkai (全開)**: *Japanese for "Full Throttle" or "Full Power".*
 
